@@ -2,8 +2,8 @@
 //  CFNetworkingTests.m
 //  CFNetworkingTests
 //
-//  Created by Guhuotaren on 03/17/2019.
-//  Copyright (c) 2019 Guhuotaren. All rights reserved.
+//  Created by refraincc on 03/17/2019.
+//  Copyright (c) 2019 refraincc. All rights reserved.
 //
 
 // https://github.com/Specta/Specta
