@@ -1,0 +1,6 @@
+framework module CFNetworking {
+  umbrella header "CFNetworking-umbrella.h"
+
+  export *
+  module * { export * }
+}

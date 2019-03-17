@@ -1,0 +1,42 @@
+PODS:
+  - CFNetworking (0.1.0)
+  - Expecta (1.0.5)
+  - "Expecta+Snapshots (3.0.1)":
+    - Expecta (~> 1.0)
+    - FBSnapshotTestCase/Core (~> 2.0)
+    - Specta (~> 1.0)
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - Specta (1.0.6)
+
+DEPENDENCIES:
+  - CFNetworking (from `../`)
+  - Expecta
+  - "Expecta+Snapshots"
+  - FBSnapshotTestCase
+  - Specta
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Expecta
+    - "Expecta+Snapshots"
+    - FBSnapshotTestCase
+    - Specta
+
+EXTERNAL SOURCES:
+  CFNetworking:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CFNetworking: 00fd18eeeec15cbae5dfa8ca850602b1d5b3bc10
+  Expecta: e1c022fcd33910b6be89c291d2775b3fe27a89fe
+  "Expecta+Snapshots": aee0487f8bbb9df7e0b7735380565ac06207e959
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  Specta: f506f3a8361de16bc0dcf3b17b75e269072ba465
+
+PODFILE CHECKSUM: 835c3c4be8022cad0d3ae8239406b3f26e1301b9
+
+COCOAPODS: 1.5.3
