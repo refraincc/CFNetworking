@@ -10,6 +10,9 @@
 #endif
 #endif
 
+#import "CFBaseRequest.h"
+#import "CFNetworkAgent.h"
+#import "CFNetworkConfig.h"
 
 FOUNDATION_EXPORT double CFNetworkingVersionNumber;
 FOUNDATION_EXPORT const unsigned char CFNetworkingVersionString[];
